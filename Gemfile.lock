@@ -66,7 +66,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (1.2.5)
       thread_safe (~> 0.1)
-    wysiwyg-rails (2.9.2)
+    wysiwyg-rails (3.1.0)
       railties (>= 3.2, < 6.0)
 
 PLATFORMS
